@@ -110,6 +110,37 @@ This chapter covers dynamic reverse engineering analysis, hacking, the Windows A
 
 -> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_ALPHA.pdf) to read the FREE pdf book.
 
+## Chapter 21: CreateFile
+This chapter covers reviewing the Windows API CreateFileW function in C.
+
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_ALPHA.pdf) to read the FREE pdf book.
+
+## Chapter 22: Debugging CreateFile x86
+This chapter covers dynamic reverse engineering analysis, debugging, the Windows API CreateFileW function in x86 Assembly.
+
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_ALPHA.pdf) to read the FREE pdf book.
+
+## Chapter 23: Hacking CreateFile x86
+This chapter covers dynamic reverse engineering analysis, hacking, the Windows API CreateFileW function in x86 Assembly.
+
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_ALPHA.pdf) to read the FREE pdf book.
+
+## Chapter 24: Debugging CreateFile x64
+This chapter covers dynamic reverse engineering analysis, hacking, the Windows API CreateFileW function in x64 Assembly.
+
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_ALPHA.pdf) to read the FREE pdf book.
+
+## Chapter 25: Hacking CreateFile x64
+This chapter covers dynamic reverse engineering analysis, hacking, the Windows API CreateFileW function in x64 Assembly.
+
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_ALPHA.pdf) to read the FREE pdf book.
+
+## Chapter 26: WriteFile
+This chapter covers reviewing the Windows API WriteFile function in C.
+
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_ALPHA.pdf) to read the FREE pdf book.
+
+
 ## BOOK IS UNDER DEVELOPMENT
 
 ## License
